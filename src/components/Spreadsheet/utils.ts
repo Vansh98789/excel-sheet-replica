@@ -1,4 +1,3 @@
-// components/Spreadsheet/utils.ts
 export const getStatusBadge = (status: string) => {
   const statusLower = status.toLowerCase();
 if (statusLower === "in-process")
