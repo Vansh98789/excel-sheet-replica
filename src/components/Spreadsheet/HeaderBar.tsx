@@ -1,4 +1,4 @@
-// components/Spreadsheet/HeaderBar.tsx
+
 import { ChevronDown, MoreHorizontal, Search, Bell } from "lucide-react";
 
 const HeaderBar = () => {
