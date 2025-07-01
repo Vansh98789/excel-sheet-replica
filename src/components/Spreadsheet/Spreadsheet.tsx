@@ -1,5 +1,4 @@
-// components/Spreadsheet/Spreadsheet.tsx
-import React from "react";
+
 import HeaderBar from "./HeaderBar";
 import Toolbar from "./Toolbar";
 import SpreadsheetTable from "./SpreadsheetTable";
