@@ -1,4 +1,4 @@
-import { ChevronDown, Eye, ArrowUpDown, Filter, Upload, Download, Share2, Plus } from "lucide-react";
+import { ChevronDown, Eye, ArrowUpDown, Filter, Upload, Download, Share2 } from "lucide-react";
 
 const Toolbar = () => {
   const handleToolbarAction = (action: string) => {
