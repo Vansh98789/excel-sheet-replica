@@ -1,5 +1,4 @@
-// components/Spreadsheet/FooterBar.tsx
-import React from "react";
+
 import { Plus } from "lucide-react";
 
 const FooterBar = () => {
