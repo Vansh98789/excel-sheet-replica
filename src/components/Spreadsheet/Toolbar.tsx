@@ -1,4 +1,3 @@
-// components/Spreadsheet/Toolbar.tsx
 import { ChevronDown, Eye, ArrowUpDown, Filter, Upload, Download, Share2, Plus } from "lucide-react";
 
 const Toolbar = () => {
