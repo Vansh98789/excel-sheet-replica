@@ -1,5 +1,5 @@
-// components/Spreadsheet/SpreadsheetTable.tsx
-import React, { useState, useEffect, useMemo, useCallback } from "react";
+
+import { useState, useEffect, useMemo, useCallback } from "react";
 import {
   useReactTable,
   getCoreRowModel,
